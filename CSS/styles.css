@@ -1,0 +1,21 @@
+body {
+    background-color: #a2d2ff; 
+}
+
+hr{
+
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 100%;
+}
+
+h1{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    font-family: arial, sans-serif;
+    color:#4e4e52;
+}
